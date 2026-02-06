@@ -1,0 +1,65 @@
+body {
+    background-color: #F39494;
+}
+
+form {
+    background-color: #FFFEFE;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 100%;
+    font-weight: 700;
+    font-family: Open Sans, sans-serif;
+    color: #333333;
+}
+
+p {
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #666666;
+}
+
+a {
+    color: #089FE0;
+}
+
+.comp1 {
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 600;
+    font-family: Open Sans, sans-serif;
+    color: #333333;
+}
+
+.name1,
+.fam1,
+.email1 {
+    background-color: #F5F5F5;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 400;
+    font-style: italic;
+    font-family: Open Sans, sans-serif;
+    color: #999999;
+}
+
+button {
+    background-color: #089FE0;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #FFFFFF;
+}
+
+.agr1 {
+    font-size: 14px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #666666;
+}
