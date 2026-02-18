@@ -1,0 +1,169 @@
+body {
+    background: #374151;
+}
+
+body,
+header,
+main,
+article,
+footer {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    padding: 72px 180px 103px;
+}
+
+#divLogo {
+    height: 35px;
+    width: 35px;
+    border-radius: 3px;
+    background-color: #4B5563;
+    padding-left: 12px;
+    padding-top: 6px;
+    box-sizing: border-box;
+    display: inline-block;
+    margin-right: 30px;
+}
+
+nav {
+    display: inline-block;
+    margin-right: 200px;
+}
+
+#logo {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 600;
+    font-family: Source Sans Pro, sans-serif;
+    text-decoration: dotted;
+}
+
+nav li {
+    color: #FFFFFF;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: dotted;
+}
+
+nav ul {
+    display: flex;
+    column-gap: 39px;
+}
+
+#divSer {
+    position: absolute;
+    padding-left: 18px;
+    padding-top: 20px;
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    display: inline-block;
+}
+
+#idSer {
+    width: 224px;
+    height: 40px;
+    background-color: #1F293799;
+    border-radius: 100px;
+    border: none;
+}
+
+
+
+.tagDate p {
+    margin: 0px auto;
+}
+
+.tagDate {
+    color: #FFFFFF;
+    font-size: 14px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    width: 180px;
+    height: 16px;
+    margin: 0px auto 14px;
+}
+
+
+
+h1 {
+    color: #FFFFFF;
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    width: 525px;
+    height: 76px;
+    padding: 0;
+    margin: 0 auto;
+    text-align: center;
+}
+
+address {
+    width: 214px;
+    height: 53px;
+    padding: 0;
+    margin: 0 auto;
+
+}
+
+figure {
+    width: 896px;
+    height: 594px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+.p1 {
+    color: #FFFFFF;
+    font-size: 20px;
+    line-height: 32px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.p2 {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+.pp {
+    width: 708px;
+    height: 569px;
+    padding: 0;
+    margin: 0 auto;
+}
+
+footer {
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 28px;
+    font-weight: 400;
+    font-family: Roboto, sans-serif;
+}
+
+footer p {
+    width: 226px;
+    height: 28px;
+    padding: 0;
+    margin: 103px auto 77px;
+}

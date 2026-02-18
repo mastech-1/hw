@@ -1,0 +1,118 @@
+body {
+    background-color: #F39494;
+}
+
+form {
+    background-color: #FFFEFE;
+    width: 582px;
+    height: 573px;
+    border-radius: 10px;
+    padding: 16px 8px;
+    box-sizing: border-box;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-content: center;
+    row-gap: 21px;
+
+}
+
+.item {
+    flex-basis: 394px;
+}
+
+h1 {
+    font-size: 36px;
+    line-height: 100%;
+    font-weight: 700;
+    font-family: Open Sans, sans-serif;
+    color: #333333;
+    text-align: center;
+}
+
+p {
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #666666;
+    text-align: center;
+}
+
+a {
+    color: #089FE0;
+}
+
+.comp1 {
+    background-color: #FFFFFF;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 600;
+    font-family: Open Sans, sans-serif;
+    color: #333333;
+    border: 1px solid #F5F5F5;
+    border-radius: 5px;
+    padding-left: 11px;
+    padding-top: 9px;
+}
+
+.name1,
+.fam1,
+.email1 {
+    background-color: #F5F5F5;
+    font-size: 16px;
+    line-height: 100%;
+    font-weight: 400;
+    font-style: italic;
+    font-family: Open Sans, sans-serif;
+    color: #999999;
+}
+
+.comp1,
+.email1,
+button {
+    box-sizing: border-box;
+    width: 100%;
+}
+
+.name1,
+.fam1 {
+    box-sizing: border-box;
+    width: calc(100% / 2 - 2px);
+}
+
+.comp1,
+.name1,
+.fam1,
+.email1,
+button {
+    height: 44px;
+}
+
+.name1,
+.fam1,
+.email1 {
+    border: none;
+    border-radius: 5px;
+    padding-left: 11px;
+    padding-top: 9px;
+}
+
+button {
+    background-color: #089FE0;
+    font-size: 18px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #FFFFFF;
+    border: none;
+    border-radius: 5px;
+}
+
+.agr1 {
+    font-size: 14px;
+    line-height: 100%;
+    font-weight: 400;
+    font-family: Open Sans, sans-serif;
+    color: #666666;
+}
